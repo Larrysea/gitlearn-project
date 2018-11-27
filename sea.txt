@@ -1,0 +1,1 @@
+测试一下push reject 机制
